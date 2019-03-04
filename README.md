@@ -6,7 +6,7 @@
 
 The goals/steps of this project is following:
 * Make a pipeline that finds relevant lane lines on the road
-* The pipeline was used for both images and video inputs
+* The pipeline can be used for both images and video inputs
 
 
 Sequence of steps involved in building the pipeline are listed below:
