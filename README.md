@@ -8,7 +8,7 @@ The goals/steps of this project is following:
 * Make a pipeline that finds relevant lane lines on the road
 * The pipeline can be used for both images and video inputs
 
-[image1]: (./Images/GrayImage.jpg "GrayscaleImage")
+[image1]: (Images/GrayImage.jpg)
 
 ---
 
