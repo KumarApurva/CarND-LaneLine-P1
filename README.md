@@ -18,7 +18,7 @@ Sequence of steps involved in building the pipeline are listed below:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./Images/GrayImage.jpg "GrayscaleImage"
 
 ---
 
