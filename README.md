@@ -8,7 +8,7 @@ The goals/steps of this project is following:
 * Make a pipeline that finds relevant lane lines on the road
 * The pipeline can be used for both images and video inputs
 
-[image1]: (Images/GrayImage.jpg)
+![](Images/GrayImage.jpg)
 
 ---
 
@@ -26,7 +26,7 @@ The pipeline consists of 6 steps identified below:
  
 A sample output image is attached below: 
 
-[Sample output image]:  (./Images/whiteCarLaneSwitch.jpg)
+![Sample output image](Images/whiteCarLaneSwitch.jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
