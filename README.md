@@ -31,15 +31,11 @@ A sample output image is attached below:
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
+One of the major short coming is manual fine tuning of Hough parameters 
+The second short-coming is identification of lane on 'guard/ guide rail' along road side 
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
-
+We can use hyper-parameter tuning techniques for automated fine tuning of Hough Transformation
+For the 'guard/guide rail', modification in 'area of interest' function is required 
