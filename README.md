@@ -42,3 +42,10 @@ A sample output image is attached below:
 
 * We can use hyper-parameter tuning techniques for automated fine tuning of Hough Transformation
 * For the 'guard/guide rail', modification in 'area of interest' function is required 
+
+
+### 4. Links of References 
+
+1. https://towardsdatascience.com/finding-driving-lane-line-live-with-opencv-f17c266f15db
+
+
