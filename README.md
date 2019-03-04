@@ -26,7 +26,7 @@ The pipeline consists of 6 steps identified below:
  
 A sample output image is attached below: 
 
-![alt text][./Images/whiteCarLaneSwitch.jpg]
+[Sample output image]:  ./Images/whiteCarLaneSwitch.jpg
 
 
 ### 2. Identify potential shortcomings with your current pipeline
