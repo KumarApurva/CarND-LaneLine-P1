@@ -1,9 +1,4 @@
-# CarND-LaneLine-P1
-Lane Line Detection
-
 # **Finding Lane Lines on the Road** 
-
-## Writeup
 
 ---
 
