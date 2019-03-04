@@ -8,16 +8,6 @@ The goals/steps of this project is following:
 * Make a pipeline that finds relevant lane lines on the road
 * The pipeline can be used for both images and video inputs
 
-
-Sequence of steps involved in building the pipeline are listed below:
-* After reading the image file, converted them to gray scale for efficient computing
-* Then applied blurring using gaussian blurring to remove noise from the images
-* 
-
-
-
-[//]: # (Image References)
-
 [image1]: ./Images/GrayImage.jpg "GrayscaleImage"
 
 ---
@@ -26,13 +16,17 @@ Sequence of steps involved in building the pipeline are listed below:
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I .... 
+The pipeline consists of 6 steps identified below:
+1. Transformed image to 'Gray Scale' for efficient computing
+2. Applied 'Gaussian Blur' for removing the noise from the image
+3. Identified of edges based on pixel intensity gradients 
+4. Selected area of interest in the image
+5. Found the line segments from edges based on Hough Transformation and drew lines on a blank image
+6. Used the above output and applied on the original image
+ 
+A sample output image is attached below: 
 
-In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
-
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
-
-![alt text][image1]
+![alt text][/Images/whiteCarLaneSwitch.jpg]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
